@@ -25,7 +25,7 @@ Welcome to my portfolio! I specialize in digital forensics, incident response, a
 
 ## 📫 Contact
 - [LinkedIn](...)
-- [Email](...)
+- [Email](jpholman02@gmail.com)
 
 ---
 
